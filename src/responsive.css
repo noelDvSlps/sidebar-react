@@ -59,6 +59,8 @@
 @media (min-width: 768px) {
   .container {
     flex-direction: column;
+    height: 100%;
+    width: 100%;
     /* margin: auto; */
   }
   .sidebar {
@@ -66,6 +68,7 @@
     justify-content: space-between;
     transition: all 0.5s;
     height: auto;
+    width: 100%;
   }
   .link-container {
     flex-direction: row;

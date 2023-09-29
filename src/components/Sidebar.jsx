@@ -21,11 +21,11 @@ export const Sidebar = ({ children }) => {
       name: "about",
       icon: <FaUserAlt />,
     },
-    {
-      path: "/analytics",
-      name: "analytics",
-      icon: <FaRegChartBar />,
-    },
+    // {
+    //   path: "/analytics",
+    //   name: "analytics",
+    //   icon: <FaRegChartBar />,
+    // },
     {
       path: "/comment",
       name: "comment",
